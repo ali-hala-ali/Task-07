@@ -1,4 +1,4 @@
-// ===== Global Variables =====
+
 let users = [];
 let posts = [];
 
@@ -113,3 +113,4 @@ async function init() {
 }
 
 document.addEventListener("DOMContentLoaded", init);
+
